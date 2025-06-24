@@ -1,7 +1,5 @@
 # Warehouse Operations Management System
 
-![Application Screenshot](screenshot.png) <!-- Add actual screenshot file later -->
-
 A C# desktop application for managing warehouse operations including data import, supplier assignment, label generation, and reporting.
 
 ## Features
